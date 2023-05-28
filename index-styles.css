@@ -1,0 +1,15 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+ul{
+    font-size: larger:
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
