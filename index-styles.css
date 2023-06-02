@@ -2,14 +2,31 @@ html{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body{
+    background-color: darkcyan;
+}
+
 h1{
+    font-family: fantasy;
     text-align: center;
-    font-style: italic;
     background-color: rgba(0, 0, 0, 0.2);
+    margin: 20px 10px;
+    padding: 10px;
 }
 
 ul{
-    font-size: larger:
+    font-size: larger;
     font-family: 'Courier New', Courier, monospace;
     font-variant: small-caps;
+    background-color: rgba(0, 0, 0, 0.2);
+    display: block;
+    padding: 20px 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+li{
+    display: inline;
+    background-color: darkcyan;
+    padding: 10px 20px;
 }
